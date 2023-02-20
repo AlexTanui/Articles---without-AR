@@ -1,7 +1,7 @@
 # Articles challenge
 This is a code challenge using ruby classes and methods that supposed to print out the magazine name author and article titles.
 
-This repo contains a list of three files, articles, test and test3. The aarticles files contains the ccode orf the author, magazine and articles while the test file contain the test to be run.
+This repo contains a list of three files, articles, test and test3. The aarticles files contains the code of the author, magazine and articles while the test file contain the test to be run.
 ## Tools Used
 This project was built with the following tools:
 
@@ -27,14 +27,14 @@ To use this repo on your machine requires some simple steps
 - Be patient as it creates a copy on your local machine for you.
 - Change directory to the repo folder:
 
-        cd l3-ruby-orms
+        cd Articles---without-AR
 
 - (Optional) Open it in ``Visual Studio Code``
 
         code .
 
 - (Alternate Option) Open it in any editor of your choice.
-- Hurray! You are one step closer to being as intelligent as Einstein.
+
 
 ### Alternative Two
 
