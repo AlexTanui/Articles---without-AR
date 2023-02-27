@@ -56,7 +56,7 @@ Running the application is very straight forward. You can use the following step
 
 - Run the application on the terminal
 
-      ruby test3.rb
+      ruby run.rb
 
 # Authors
 This project was contributed to by:
